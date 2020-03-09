@@ -3,7 +3,7 @@ class PythonAT34 < Formula
   desc "Interpreted, interactive, object-oriented programming language"
   homepage "https://www.python.org/"
   url "https://www.python.org/ftp/python/3.4.10/Python-3.4.10.tar.xz"
-  sha256 "c24a37c63a67f53bdd09c5f287b5cff8e8b98f857bf348c577d454d3f74db049"
+  sha256 "d46a8f6fe91679e199c671b1b0a30aaf172d2acb5bcab25beb35f16c3d195b4e"
   head "https://github.com/python/cpython.git", :branch => "3.4"
 
   # setuptools remembers the build flags python is built with and uses them to
